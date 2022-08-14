@@ -1,7 +1,7 @@
 # ichigo_mouse
-LPC1114 1byte ichigo mouse for IchigoJam
+ICHIGO MOUSE
 
-1BYTE ICHIGO MOUSE
+LPC1114 1byte ichigo mouse for IchigoJam
 
 IchigoJamでPS/2マウス（3ボタン）を使えるようにする為のプログラムセットです。
 PS/2マウスはELECO M-K6P2RWH/RSで動作確認を行いました（必要に応じて変換アダプターを使用）。
